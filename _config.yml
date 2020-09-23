@@ -28,7 +28,7 @@ repository: ronv/website
 permalink: pretty
 
 disqus:
-  name: "your username" # required
+  name: "wavyriver" # required
   noscript: "Please enable JavaScript to view the comments powered by Disqus." # optional
 
 paginate:            1000
