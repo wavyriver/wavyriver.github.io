@@ -1,8 +1,8 @@
 site: Gray - Single column blog and portfolio Jekyll theme
 url: # url
-author: # your name
+author: River.Kim
 author:
-  name: # your name
+  name: River.Kim
   email: # your email 
   url: # url
   avatar: 
@@ -23,7 +23,7 @@ social:
     - https://github.com/example
     - https://codepen.io/example
   
-repository: ronv/website
+repository: wavyriver/wavyriver.github.io
 
 permalink: pretty
 
@@ -87,11 +87,9 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "project"     
-      
+      layout: "project"
+
   - scope:
       path: "assets/images"
     values:
       image: true
-
-theme: jekyll-theme-cayman
